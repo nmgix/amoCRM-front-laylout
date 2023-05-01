@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/amoCRM-front-laylout/static/css/main.f3dd95ab.css",
-    "main.js": "/amoCRM-front-laylout/static/js/main.6f34228c.js",
+    "main.css": "/amoCRM-front-laylout/static/css/main.96feba1d.css",
+    "main.js": "/amoCRM-front-laylout/static/js/main.33f54aac.js",
     "index.html": "/amoCRM-front-laylout/index.html",
-    "main.f3dd95ab.css.map": "/amoCRM-front-laylout/static/css/main.f3dd95ab.css.map",
-    "main.6f34228c.js.map": "/amoCRM-front-laylout/static/js/main.6f34228c.js.map"
+    "main.96feba1d.css.map": "/amoCRM-front-laylout/static/css/main.96feba1d.css.map",
+    "main.33f54aac.js.map": "/amoCRM-front-laylout/static/js/main.33f54aac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3dd95ab.css",
-    "static/js/main.6f34228c.js"
+    "static/css/main.96feba1d.css",
+    "static/js/main.33f54aac.js"
   ]
 }
